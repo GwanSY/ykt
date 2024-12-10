@@ -1,6 +1,7 @@
 # 24.12版雨课堂自动刷课
 ## 项目起源
-感谢学长的脚本（https://github.com/Sdl-Jenny/ykt），但是在使用的时候有一些课没法刷，所以修改了一下代码。
+感谢学长的脚本（https://github.com/Sdl-Jenny/ykt)
+但是在使用的时候有一些课没法刷，所以修改了一下代码。
 ## 使用方法
 1. 安装python 然后pip install websockets 就可以了 很简单吧
 2. 运行脚本就行了
